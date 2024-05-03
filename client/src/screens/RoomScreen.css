@@ -1,0 +1,31 @@
+/* room.css */
+
+.button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin: 3px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #0056b3;
+}
+
+.heading {
+    text-align: center;
+    margin-bottom: 20px;
+    margin: 8px;
+}
+
+.video-wrapper {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.video-player {
+    display: inline-block;
+    margin: 0 auto;
+}
